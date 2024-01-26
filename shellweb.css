@@ -1,0 +1,52 @@
+
+
+
+
+body{
+    background-color: black; 
+}
+
+
+
+.logo-shell{
+    font-weight: bold;
+    font-family: monospace, Trebuchet MS;
+    font-size: 7rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    align-items: baseline;
+
+}
+
+.options{
+    color: whitesmoke;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    color: white;
+    font-size: 5rem;
+    align-items: center;
+}
+
+.box{
+    
+    column-gap: 2rem;
+    border-color: antiquewhite;
+    font-size: large;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.option2{
+    
+    align-items: center;
+    color: whitesmoke;
+    font-size: 4rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
